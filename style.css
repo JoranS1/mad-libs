@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: lightgrey;
+
+}
+.container{
+	width: 1500px;
+}
+h1{
+	background-color: black;
+	color: white;
+}
+ul > li > a{
+	text-decoration: none;
+	color: black;
+}
+ul > li{
+	display: inline;
+	margin-right: 15px;
+}
+
+.menu{
+	background-color: red;
+	padding: 10px 0px;
+}
+
+footer{
+	background-color: gray;
+	text-align: center;
+}
+.wit{
+	background-color: white;
+}
+.input{
+	background-color: white;
+}
